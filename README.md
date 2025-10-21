@@ -1,1 +1,1 @@
-🖥️ Hosted Version:https://translator-359gq2odz-thuyavan28s-projects.vercel.app/
+🖥️ Hosted Version:https://langtranslator17.netlify.app/
