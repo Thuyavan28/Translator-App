@@ -146,15 +146,7 @@ function App() {
               <div className="mt-6 text-center w-full bg-gradient-to-r from-green-400 to-teal-500 text-white px-4 py-3 rounded-lg shadow-md">
                 <h2 className="text-lg font-medium">
                   ✅ Translated: <span className="font-bold">{result}</span>
-                 <button
-      onClick={() => {
-        const utterance = new SpeechSynthesisUtterance(result);
-        speechSynthesis.speak(utterance);
-      }}
-      className="mt-2 text-left px-2 py-1 bg-white text-black rounded"
-    >
-      📢 Speak
-    </button>
+       
                 </h2>
               </div>
             )}
